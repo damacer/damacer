@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damacer
 - 👀 I’m interested in programming, data analytics, chemical and process engineering, and biology. 
-- 👨‍🎓 I'm a graduate engineer (BE Hons, Chem Pro), currently studying towards a PhD
+- 👨‍🎓 I'm a graduate engineer (BE Hons, Chem Pro), currently studying towards a PhD in Electrical and Electronic Engineering
 - 🌱 I’m currently learning R
 - 📫 How to reach me dam121@uclive.ac.nz
 
